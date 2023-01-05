@@ -1,0 +1,27 @@
+{
+  "name": "random-str-messages-tatan",
+  "version": "1.0.0",
+  "description": "Generar Mensajes Aleatorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatanLion/random-str-messages-tatan.git"
+  },
+  "keywords": [],
+  "author": "Jonathan Amaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TatanLion/random-str-messages-tatan/issues"
+  },
+  "homepage": "https://github.com/TatanLion/random-str-messages-tatan#readme",
+  "bin": {
+    "random-str-msg-tatan": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
